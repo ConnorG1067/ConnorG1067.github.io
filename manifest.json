@@ -1,6 +1,6 @@
 {
-    "name": "connor_website",
-    "short_name": "connor_website",
+    "name": "connor_site",
+    "short_name": "connor_site",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
